@@ -13,7 +13,7 @@ If your secrets are ever compromised, make sure you reset your secrets and re-au
 
 ## Setup
 
-To add this library to your scrupt file, do the following in the Apps Script code editor:
+To add this library to your script file, do the following in the Apps Script code editor:
 
 1. Click on the menu item "Resources > Libraries..."
 2. In the "Add a Library" text box, enter the script ID `1cPLsujwI7cGb7btPDrdacq8XxzqNUoqvV12TkEKt2GVTr8P1PuS3ebQr` and click the "Add" button.
